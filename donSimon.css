@@ -1,0 +1,103 @@
+body{
+    background-color: white;
+    margin-left: auto;
+
+}
+/*PANTALLA DE COLORES DE INICIO*/
+#principal{
+    display: flex;
+    background-color:black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 110em;
+}
+
+.coloresNormales{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color:black;
+    height: 50%;
+    width: 52%;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+  
+   
+}
+
+#rojo{
+    background-color:red;
+    height: 48%;
+    width: 48%;
+    
+    
+    
+}
+#verde{
+    background-color:green;
+    height: 48%;
+    width: 48%;
+
+   
+}
+#amarillo{
+    background-color:yellow;
+    height: 48%;
+    width: 48%;
+    
+   
+}
+#azul{
+    background-color:blue;
+    height: 48%;
+    width: 48%;
+   
+}
+
+/*PANTALLA DE COLORES RESALTADOS
+
+
+.coloresBrillantes{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color:black;
+    height: 50%;
+    width: 52%;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+  
+   
+}
+
+#rojoBrillante{
+    background-color:orangered;
+    height: 48%;
+    width: 48%;
+    
+    
+    
+}
+#verdeBrillante{
+    background-color:greenyellow;
+    height: 48%;
+    width: 48%;
+
+   
+}
+#amarilloBrillante{
+    background-color:gold;
+    height: 48%;
+    width: 48%;
+    
+   
+}
+
+*/
